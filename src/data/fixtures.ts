@@ -91,7 +91,7 @@ export default {
       },
       {
         src: "/logos/nst.svg",
-        url: "https://apple.com/"
+        url: "https://nst.us/"
       }
   ]
   },
