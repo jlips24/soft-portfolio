@@ -1,7 +1,7 @@
 export default {
-  author: "Sam Xie",
+  author: "Jake Lipson",
   hero: {
-    subtitle: "Software engineer at Cash App.",
+    subtitle: "Software engineer at Spotify.",
     description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
     cta: "Browse Products",
   },
