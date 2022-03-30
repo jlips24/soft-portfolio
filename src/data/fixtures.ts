@@ -82,45 +82,35 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/unimelb.svg",
-        url: "https://unimelb.edu.au/"
+        src: "/logos/spotify_1.svg",
+        url: "https://spotify.com/"
       },
       {
-        src: "/logos/zendesk.svg",
-        url: "https://www.zendesk.com/"
+        src: "/logos/noodle.svg",
+        url: "https://www.noodle.com/"
       },
       {
-        src: "/logos/cashapp.svg",
-        url: "https://cash.app/"
+        src: "/logos/nst.svg",
+        url: "https://apple.com/"
       }
   ]
   },
   footer: {
-    tagline: "Sam Xie — Melbourne, Australia",
+    tagline: "Jake Lipson — New York, NY",
     links: [
       {
-        name: "Twitter",
-        url: "https://twitter.com/samxstudio",
-        fa: "fab fa-twitter" // Code from: https://fontawesome.com/v5/icons/twitter?s=brands
-      },
-      {
-        name: "Medium",
-        url: "https://medium.com/@samxie",
-        fa: "fab fa-medium"
-      },
-      {
         name: "Github",
-        url: "https://github.com/samzx",
+        url: "https://github.com/jlips24",
         fa: "fab fa-github"
       },
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/xiesam/",
+        url: "https://www.linkedin.com/in/jakelipson/",
         fa: "fab fa-linkedin"
       },
       {
         name: "Email",
-        url: "mailto:contact@samxie.net",
+        url: "mailto:jake.lipson@gmail.com",
         fa: "fa fa-envelope"
       },
     ]
